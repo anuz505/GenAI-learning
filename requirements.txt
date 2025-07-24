@@ -34,3 +34,13 @@ bs4
 
 #text-spliters
 langchain-text-splitters
+
+# HuggingFace 
+sentence_transformers
+langchain_huggingface
+
+# for progress bar
+tqdm
+
+# Vector DB
+faiss-cpu
