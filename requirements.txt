@@ -31,3 +31,6 @@ pypdf
 arxiv 
 pymupdf
 bs4
+
+#text-spliters
+langchain-text-splitters
