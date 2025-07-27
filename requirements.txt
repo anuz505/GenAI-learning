@@ -2,6 +2,9 @@
 langchain
 langchain-core
 
+#Groq
+langchain-groq
+
 # OpenAI Integration
 langchain-openai
 openai
@@ -45,3 +48,12 @@ tqdm
 
 # Vector DB
 faiss-cpu
+
+#frontend
+streamlit
+
+#backend
+fastapi
+uvicorn
+langserve
+sse_starlette
