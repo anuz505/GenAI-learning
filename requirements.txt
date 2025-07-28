@@ -48,6 +48,8 @@ tqdm
 
 # Vector DB
 faiss-cpu
+chromadb
+langchain-chroma
 
 #frontend
 streamlit
