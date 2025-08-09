@@ -59,3 +59,7 @@ fastapi
 uvicorn
 langserve
 sse_starlette
+
+
+#sql
+mysql-connector-python
