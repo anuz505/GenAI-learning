@@ -63,3 +63,13 @@ sse_starlette
 
 #sql
 mysql-connector-python
+
+#validators
+validators
+youtube_transcript_api
+unstructured
+pytube
+yt_dlp
+
+#math
+numexpr
