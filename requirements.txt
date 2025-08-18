@@ -73,3 +73,8 @@ yt_dlp
 
 #math
 numexpr
+
+# Amazon
+boto3
+awscli
+langchain-aws
