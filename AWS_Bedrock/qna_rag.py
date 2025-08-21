@@ -17,7 +17,7 @@ def data_ingestion():
     return docs
 
 # vector embeddings part
-bedrock_client = boto3.client(service_name = "bedrock-runtime")
+bedrock_client = boto3.client(service_name = "bedrock-runtime",region_name = "ap-south-1")
 embeddings = BedrockEmbeddings(model_id="amazon.titan-embed-text-v2:0",client=bedrock_client)
 # vector store
 def getVectorDB(docs):

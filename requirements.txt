@@ -78,3 +78,7 @@ numexpr
 boto3
 awscli
 langchain-aws
+
+# crew AI
+crewai
+crewai_tools
